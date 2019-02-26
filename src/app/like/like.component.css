@@ -1,0 +1,11 @@
+.glyphicon{
+    cursor: pointer;
+}
+
+.liked{
+    color:deeppink;
+}
+
+.not-liked{
+    color: #ccc;
+}
